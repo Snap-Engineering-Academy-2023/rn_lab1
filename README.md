@@ -156,7 +156,7 @@ Woohoo! You got your first mobile app running.
 - Helpful View styling props: `backgroundColor, flex, justifyContent, alignContent, padding`, …
 - Helpful Text styling props: `color, fontSize, fontWeight, textAlign, padding`,****
 
-## Take a screenshot of your app & add to the Google Classroom Assignment [React Native Lab 1](https://classroom.google.com/c/NTAwNzM2MDgwMzgy/a/NDk2ODYxNDA4NzA5/details)
+## Take a screenshot of your app & add to the Google Classroom Assignment
 
 # Part 4: Managing State and Props
 
