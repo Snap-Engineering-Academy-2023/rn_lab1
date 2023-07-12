@@ -41,7 +41,7 @@ Start by removing the yarn project configuration from your user root (aka `~`) f
 ```bash
 cd ~
 
-rm -rf node_modules .yarnrc .yarnrc.yml package.json yarn.lock
+rm -rf node_modules .yarnrc .yarnrc.yml package.json yarn.lock .pnp.loader.mjs .pnp.cjs	
 ```
 
 Now that those files are cleared out, run `yarn -v`. You should get `1.22.19`, but if you get an error, run `brew install yarn` to reinstall.
@@ -138,10 +138,9 @@ Woohoo! You got your first mobile app running.
 
 ## First, fork and clone this lab repo:
 ### To run 
-1. Fork this repo! 
-2. Git clone the forked repo. 
-3. In terminal, move to the project folder then run `yarn`
-4. Then launch the project with `yarn expo start` 
+1. Clone this repo! 
+2. In terminal, move to the project folder then run `yarn`
+3. Then launch the project with `yarn expo start` 
 
 ## Then try to complete the following:
 
